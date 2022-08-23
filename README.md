@@ -1,6 +1,6 @@
 # RL Futures Trading
 
-A reinforcement learning exploration using [stable baselines 3](https://stable-baselines3.readthedocs.io/en/master/) applied to trading crytocurrency futures.
+A **reinforcement learning** exploration using [stable baselines 3](https://stable-baselines3.readthedocs.io/en/master/) applied to trading **crytocurrency futures**.
 
 ## Model Training
 

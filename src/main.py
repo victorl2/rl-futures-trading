@@ -10,7 +10,7 @@ log_frequency = 10_000
 
 # Evaluation parameters
 run_eval = True
-render_active = True
+render_active = False
 episodes = 20
 
 # Model parameters
@@ -18,7 +18,7 @@ model_type = "PPO"
 policy = 'MlpPolicy'
 
 # Environment parameters
-environment = 'ALE/Breakout-v5'
+environment = 'LunarLander-v2'
 
 # Directory for load and saving the model/training results
 log_dir = os.path.join('../output/logs', environment)
